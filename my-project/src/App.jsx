@@ -4,7 +4,7 @@ import Cards from "./pages/Cards";
 import Loans from "./pages/Loans";
 import Transactions from "./pages/Transactions";
 
-import MainLayout from "../my-project/src/layouts/MainLayout";
+import MainLayout from "./layouts/MainLayout";
 import AccountDetails from "./pages/AccountDetails";
 import AddCard from "./pages/AddCard";
 import AddAccount from "./pages/AddAccount";
